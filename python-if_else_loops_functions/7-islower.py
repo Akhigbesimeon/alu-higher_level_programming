@@ -4,4 +4,3 @@ def is_lower(c):
         return True
     else:
         return False
-
